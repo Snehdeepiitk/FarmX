@@ -84,14 +84,6 @@ Please adhere toward our [Code-of-Conduct](Code-of-Conduct.md).
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## 🌟 Contributors 
-
-<a href="https://github.com/infinte-bandwidth/farmerX/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=infinte-bandwidth/farmerX" />
-</a>
-
-## PPT
-- https://docs.google.com/presentation/d/1vK2Mb2VcDfSWqIljz7BqO7Fq3PyWnOkeB-jyatHlNfE/edit?usp=sharing
 
 ### Like This? Star ⭐ this repository.
 
