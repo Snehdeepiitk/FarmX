@@ -1,15 +1,6 @@
  <h1 align="center"> FARMERX <br/>The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings.  
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
  
 <h2 align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/infinte-bandwidth/farmerX.svg?logo=github)
-![GitHub forks](https://img.shields.io/github/forks/infinte-bandwidth/farmerX.svg?logo=github&color=teal)
-![https://img.shields.io/badge/Licience-MIT-green](https://img.shields.io/badge/Licience-MIT-green)
-![Contribotion](https://img.shields.io/badge/Contribution-Welcome-brightgreen)
-![GitHub top language](https://img.shields.io/github/languages/top/infinte-bandwidth/farmerX?color=yellow&logo=python)
 
 [Website Link](https://farmerx.000webhostapp.com/)
 
